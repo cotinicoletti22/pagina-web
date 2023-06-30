@@ -1,0 +1,18 @@
+h1,h2,h4,h5,h6{
+    font-size: 55px;
+    color: aliceblue;
+}
+p{
+    font-size: 30px;
+    color: rgb(6, 2, 254);
+}
+li{
+    color: red;
+    font-size: 30px;
+}
+a{
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+}
